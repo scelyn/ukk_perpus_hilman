@@ -40,7 +40,7 @@
                         </a>
                       </td>
                     </tr>
-                          <?php $k++ ?>
+                          <?php $no++; ?>
                   <?php endforeach ?>
                   </tbody>
                   <tfoot>
